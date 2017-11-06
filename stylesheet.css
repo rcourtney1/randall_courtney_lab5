@@ -3,7 +3,11 @@ header{
   text-align: center;
 }
 .page {
-  width: 960;
+  width: 960px;
+}
+body {
+  background-image: url (http://www.astro.caltech.edu/observatories/coo/images/p200Sunset.crop.jpg);
+  width: 960px;
 }
 #planetdata table, th, td {
   border: 1px solid black;  
