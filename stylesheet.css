@@ -5,6 +5,9 @@ header{
 #planetdata table, th, td {
   border: 1px solid red;  
 }
+body {
+  background: url (
+}
 #planetdata {
   margin: 25%;
   padding: 5%;
