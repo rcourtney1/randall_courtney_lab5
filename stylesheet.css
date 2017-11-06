@@ -3,10 +3,10 @@ header{
   text-align: center;
 }
 #planetdata table, th, td {
-  border: 1px solid red;  
+  border: 3px solid red;  
 }
 body {
-  background: url (http://cdn2.list25.com/wp-content/uploads/2014/11/outerspace.jpg);
+  background-image: url (http://cdn2.list25.com/wp-content/uploads/2014/11/outerspace.jpg);
 }
 #planetdata {
   margin: 25%;
