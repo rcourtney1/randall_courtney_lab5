@@ -2,11 +2,8 @@ header{
   background: red;
   text-align: center;
 }
-body {
-  background-image: url (http://www.astro.caltech.edu/observatories/coo/images/p200Sunset.crop.jpg);
-}
 #planetdata table, th, td {
-  border: 1px solid black;  
+  border: 1px solid red;  
 }
 #planetdata {
   margin: 25%;
