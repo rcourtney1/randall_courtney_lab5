@@ -1,4 +1,4 @@
-header{
+header {
   background: red;
   text-align: center;
   font-size: x-large;
@@ -27,4 +27,9 @@ body {
 #planetdata {
   margin: 25%;
   padding: 5%;
+}
+footer {
+  background: midnight blue;
+  text-align: center;
+  font-size: x-large;
 }
