@@ -12,6 +12,12 @@ body {
   margin: 10%;
   margin-bottom: 10%;
 }
+.earth {
+  height: 10%;
+}
+.moon {
+  height: 10%;
+}
 #planetdata {
   margin: 25%;
   padding: 5%;
