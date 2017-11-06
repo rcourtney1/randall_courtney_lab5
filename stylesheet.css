@@ -9,14 +9,18 @@ body {
   background: dimgray; 
 }
 #space {
-  margin: 10%;
+  margin: 15%;
   margin-bottom: 10%;
 }
 .earth {
-  height: 10%;
+  width: 30%;
+  height: auto;
+  margin-right: 5%;
 }
 .moon {
-  height: 10%;
+  width: 30%;
+  height: auto;
+  margin-left: 5%;
 }
 #planetdata {
   margin: 25%;
