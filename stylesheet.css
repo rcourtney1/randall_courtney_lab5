@@ -1,6 +1,7 @@
 header{
   background: red;
   text-align: center;
+  font-size: x-large;
 }
 #planetdata table, th, td {
   border: 3px solid red;  
